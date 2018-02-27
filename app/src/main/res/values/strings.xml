@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySocketChat</string>
+    <string name="input_name">Jack</string>
+    <string name="input_message">Message</string>
+    <string name="send_msg">Send</string>
+    <string name="connect_server">Connecting</string>
+</resources>
